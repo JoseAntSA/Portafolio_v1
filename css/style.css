@@ -541,6 +541,9 @@ footer .arriba{
         width: fit-content;
     }
 
+	.skills .skill .skill-name {
+        width: 100%;
+    } 
     .skills .fila{
         display: block;
     }
